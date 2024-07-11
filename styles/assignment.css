@@ -1,0 +1,117 @@
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  .font{
+    background-image: url(./assets/Hero-bg.png);
+    width: 1440px;
+    height: 652px;
+    text-align:center;
+  }
+  .why{
+    font-size: 32px;
+    font-weight: 800px;
+    text-align: center;
+  }
+  .first-title{
+    font-size: 48px;
+    font-weight: 800px;
+    width: 998px;
+  }
+  .title-description{
+    font-size: 16px;
+  }
+  .btn{
+    border-radius: 8px;
+    color: #0D1321;
+  }
+  flex{ 
+    display: flex;
+  }
+  .skills{
+    display: flex;
+    margin-right: 24px;
+  }
+  .back-c1{
+      background-color: #FF4C1E;
+      width: 364px;
+      border-radius: 16px;
+      padding: 40px;
+  }
+  .back-c2{
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color: #EBEBEB;
+  }
+  .back-c3{
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color: #FFDF00;
+  }
+  .skil{
+    display: flex;
+    margin: 74px 152px 42px 148px;
+  }
+  .ss{
+    padding-right: 98px;
+  }
+  .h1{
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .p1{
+    font-size: 16px;
+  }
+  .p4{
+    text-align: center;
+  }
+  .footer{
+    display: flex;
+    margin-top: 32px ;
+    margin-left: 140px;
+  }
+  .foot{
+    margin-top: 32px;
+    margin-left: 526px;
+  }
+  .from{
+    text-align: center;
+    background-image: url(./assets/handshake.jpg);
+    width: 1140px;
+    border-radius: 16px;
+    padding: 48px 64px;
+    margin: 50px 150px 180px 150px;
+  }
+  .inpu{
+    width: 548px;
+    border-radius: 8px;
+    color: #FFFFFF;
+  }
+  .input{
+    width: 120px;
+    border-radius: 8px;
+    color: #FFFFFF;
+  }
+  .l1{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .my{
+    margin: 151px 150px 49px 150px;
+  }
+  .skill{
+    margin-top: 48px;
+    margin-right: 24px;
+  }
+  .ins{
+    width: 1140px;
+    margin: 48px 152px 151px 152px;
+  }
+  
